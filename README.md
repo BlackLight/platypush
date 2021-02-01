@@ -1,6 +1,15 @@
 Platypush
 =========
 
+---
+## ‼️ THIS PROJECT HAS BEEN MOVED TO A [SELF-HOSTED GITLAB INSTANCE](https://git.platypush.tech/platypush/platypush) ‼️
+
+I feel like many decisions taken by GitHub after being acquired by Microsoft aren't aligned with my ethos as an open-source developer, and the time has come for this project to find a new home.
+
+All the previously created issues have been imported and new commits will only be published on the new repo. If you want to open a new issue please do so on the new page.
+
+---
+
 [![Build Status](https://travis-ci.org/BlackLight/platypush.svg?branch=master)](https://travis-ci.org/BlackLight/platypush)
 [![Documentation Status](https://readthedocs.org/projects/platypush/badge/?version=latest)](https://platypush.readthedocs.io/en/latest/?badge=latest)
 [![pip version](https://img.shields.io/pypi/v/platypush.svg?style=flat)](https://pypi.python.org/pypi/platypush/)
